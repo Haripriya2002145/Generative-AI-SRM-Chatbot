@@ -1,0 +1,14 @@
+.chatBotIcon-container{   
+    width: 10%;
+    height: 15%;   
+}
+
+.chatBotIcon{
+    cursor: pointer;
+    position: fixed;
+    bottom: 15px;
+    left: 15px;
+
+    z-index: 22;
+}
+
